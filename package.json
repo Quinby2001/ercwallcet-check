@@ -1,6 +1,6 @@
 {
   "name": "walletcheck",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "check",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,8 @@
     "erc"
   ],
   "author": "quinby",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "shell-oooooyoung": "^1.1.11"
+  }
 }
